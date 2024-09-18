@@ -1,16 +1,22 @@
-{
-  "countries": [
+[
     {
-      "id": 1,
-      "name": "USA",
+        "id": 1,
+        "country": "United States"
     },
     {
-      "id": 2,
-      "name": "Canada",
+        "id": 2,
+        "country": "Canada"
     },
     {
-      "id": 3,
-      "name": "Australia",
+        "id": 3,
+        "country": "United Kingdom"
+    },
+    {
+        "id": 4,
+        "country": "Australia"
+    },
+    {
+        "id": 5,
+        "country": "Germany"
     }
-  ]
-}
+]
