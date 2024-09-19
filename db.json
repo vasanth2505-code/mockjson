@@ -1,22 +1,59 @@
-[
+{
+  "countries": [
     {
-        "id": 1,
-        "country": "United States"
+      "id": 1,
+      "name": "United States",
+      "description": "A country in North America."
     },
     {
-        "id": 2,
-        "country": "Canada"
+      "id": 2,
+      "name": "Canada",
+      "description": "The second largest country by total area."
     },
     {
-        "id": 3,
-        "country": "United Kingdom"
+      "id": 3,
+      "name": "United Kingdom",
+      "description": "A sovereign country located off the north-western coast of mainland Europe."
     },
     {
-        "id": 4,
-        "country": "Australia"
+      "id": 4,
+      "name": "Australia",
+      "description": "A country and continent surrounded by the Indian and Pacific oceans."
     },
     {
-        "id": 5,
-        "country": "Germany"
+      "id": 5,
+      "name": "Germany",
+      "description": "A country in Central Europe known for its history and culture."
     }
-]
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "body": "North America",
+      "countryId": 1
+    },
+    {
+      "id": 2,
+      "body": "North America",
+      "countryId": 2
+    },
+    {
+      "id": 3,
+      "body": "Europe",
+      "countryId": 3
+    },
+    {
+      "id": 4,
+      "body": "Oceania",
+      "countryId": 4
+    },
+    {
+      "id": 5,
+      "body": "Europe",
+      "countryId": 5
+    }
+  ],
+  "profile": {
+    "name": "World Profile"
+  }
+}
