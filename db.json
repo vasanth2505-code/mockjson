@@ -14,26 +14,16 @@
       "id": 3,
       "name": "Country C",
       "description": "Description of Country C"
-    }
-  ],
-  "cities": [
-    {
-      "id": 1,
-      "name": "City 1",
-      "countryId": 1
     },
     {
-      "id": 2,
-      "name": "City 2",
-      "countryId": 1
+      "id": 4,
+      "name": "Country D",
+      "description": "Description of Country D"
     },
     {
-      "id": 3,
-      "name": "City 3",
-      "countryId": 2
+      "id": 5,
+      "name": "Country E",
+      "description": "Description of Country E"
     }
-  ],
-  "region": {
-    "name": "Region 1"
-  }
+  ]
 }
