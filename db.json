@@ -2,28 +2,23 @@
   "countries": [
     {
       "id": "US",
-      "name": "AMerica",
-      
+      "name": "AMerica",      
     },
     {
       "id": "CN",
-      "name": "Canada",
-      
+      "name": "Canada",      
     },
     {
       "id": "NY",
-      "name": "NewYork",
-      
+      "name": "NewYork",      
     },
     {
       "id": "HK",
-      "name": "HongKong",
-      
+      "name": "HongKong",      
     },
     {
       "id": "GE",
-      "name": "Germany",
-     
+      "name": "Germany",     
     }
   ]
 }
