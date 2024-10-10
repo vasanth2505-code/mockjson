@@ -1,28 +1,28 @@
 {
   "countries": [
     {
-      "id": 1,
-      "name": "Country A",
+      "id": "US",
+      "name": "AMerica",
       "description": "Description of Country A"
     },
     {
-      "id": 2,
-      "name": "Country B",
+      "id": "CN",
+      "name": "Canada",
       "description": "Description of Country B"
     },
     {
-      "id": 3,
-      "name": "Country C",
+      "id": "NY",
+      "name": "NewYork",
       "description": "Description of Country C"
     },
     {
-      "id": 4,
-      "name": "Country D",
+      "id": "HK",
+      "name": "HongKong",
       "description": "Description of Country D"
     },
     {
-      "id": 5,
-      "name": "Country E",
+      "id": "GE",
+      "name": "Germany",
       "description": "Description of Country E"
     }
   ]
