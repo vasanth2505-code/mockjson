@@ -3,27 +3,27 @@
     {
       "id": "US",
       "name": "AMerica",
-      "description": "Description of Country A"
+      
     },
     {
       "id": "CN",
       "name": "Canada",
-      "description": "Description of Country B"
+      
     },
     {
       "id": "NY",
       "name": "NewYork",
-      "description": "Description of Country C"
+      
     },
     {
       "id": "HK",
       "name": "HongKong",
-      "description": "Description of Country D"
+      
     },
     {
       "id": "GE",
       "name": "Germany",
-      "description": "Description of Country E"
+     
     }
   ]
 }
